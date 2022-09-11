@@ -5,3 +5,4 @@
 - elasticsearch, logstash, vector
 - data engineering
 - python, go
+- automation, ansible
