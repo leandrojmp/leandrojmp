@@ -11,7 +11,6 @@
 ![kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
 
 ![bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-![ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=ffffff)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
 
